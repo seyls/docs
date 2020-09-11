@@ -2,7 +2,7 @@ module.exports = {
   title: 'Seyls Docs',
   tagline: 'Simple. Powerful. Invoicing',
   url: 'https://seyls.com',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'seyls', // Usually your GitHub org/user name.
